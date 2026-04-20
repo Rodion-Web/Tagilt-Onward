@@ -99,11 +99,18 @@ SMTP_TO=your_email@gmail.com
 ## 📂 Project Structure
 
 ```bash
-index.php
+/img
+.env-example
+.gitignore
+.htaccess
+README.eng.md
+README.md
+favicon.ico
+index.html
+normalize.css
+script.js
 send.php
-/style.css
-/script.js
-.env (ignored)
+style.css
 ```
 
 ---
