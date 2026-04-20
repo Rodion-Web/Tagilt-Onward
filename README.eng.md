@@ -112,7 +112,11 @@ script.js
 send.php
 style.css
 ```
+## 🌐 Demo
 
+[https://yahad4israel.ru/](https://yahad4israel.ru/)
+
+---
 ---
 
 ## 📬 How it works
